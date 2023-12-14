@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+}
+#logo {
+  width: 100%;
+  padding: 1rem;
+}
+#logo img {
+  display: block;
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  background-color: transparent;
+  opacity: 0.5;
+}
